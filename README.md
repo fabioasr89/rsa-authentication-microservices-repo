@@ -1,4 +1,4 @@
-#ESEMPIO DI GESTIONE DI UN TOKEN JWT CON ALGIRITMO DI CIFRATURA SRA
+#ESEMPIO DI GESTIONE DI UN TOKEN JWT CON ALGIRITMO DI CIFRATURA RSA
 
 Nell'esempio si espone un primo caso di utilizzo del token jwt mediante la codifica/decodifica basata
 su RS256. Una chiave privata, residente sul servizio che gestisce il token, viene utilizzata per 
